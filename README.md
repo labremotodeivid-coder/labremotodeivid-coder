@@ -1,28 +1,122 @@
-## 👋 Astolfinho Smith
+# 👨🏻‍🔬 Astolfinho Smith
 
-`Estudante de Física | Educação`
+**`Estudante de Física | Ajudante no Lab Remoto`**
 
-Me chamo Astolfinho Smith, sou estudante de Física apaixonado por educação e ciência. Desde cedo fui fascinado pelo funcionamento do universo e como a física descreve tudo ao nosso redor. Atualmente trabalho como ajudante no **Lab Remoto**, onde compartilho meu conhecimento e ajudo a tornar a educação científica mais acessível para todos. Também compartilho conteúdo educativo pelo YouTube e Instagram, com o perfil chamado **"Lab Remoto"**.
+Me chamo Astolfinho Smith, sou estudante de Física apaixonado por educação e ciência. Desde cedo fui fascinado pelo funcionamento do universo e como a física descreve tudo ao nosso redor. Atualmente trabalho como ajudante no **[Lab Remoto](https://github.com/labremotodeivid-coder/labremoto)**, onde contribuo com conteúdos, experimentos virtuais e ajudo a tornar a educação científica mais acessível para todos. Também compartilho conteúdo educativo pelo YouTube e pelo Instagram, com o perfil chamado **"Lab Remoto"**.
 
-![Estrelas](https://img.shields.io/github/stars/labremotodeivid-coder?style=flat-square&logo=github&label=⭐%20ESTRELAS&color=1565C0&labelColor=0d1117)
-![Seguidores](https://img.shields.io/github/followers/labremotodeivid-coder?style=flat-square&logo=github&label=👥%20SEGUIDORES&color=1565C0&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/🔬%20ÁREA-Física%20%26%20Educação-1565C0?style=flat-square&labelColor=0d1117)
+<p align="left">
+    <a href="https://github.com/labremotodeivid-coder?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/labremotodeivid-coder?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/labremotodeivid-coder?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/labremotodeivid-coder?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,git,github,markdown,latex,androidstudio,vscode&theme=dark" />
+<img 
+    align="left" 
+    alt="Flutter"
+    title="Flutter" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Dart"
+    title="Dart" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Android Studio"
+    title="Android Studio" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VS Code"
+    title="VS Code" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Markdown"
+    title="Markdown" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Firebase"
+    title="Firebase" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
-<div align="center">
-
-<a href="https://github.com/labremotodeivid-coder">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=labremotodeivid-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=1565C0&icon_color=1565C0&hide_border=false&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20Astolfinho%20Smith"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labremotodeivid-coder&layout=compact&langs_count=6&theme=tokyonight&title_color=1565C0&hide_border=false&locale=pt-br&custom_title=Tecnologias"/>
-</a>
-
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=labremotodeivid-coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20Astolfinho%20Smith" 
+  />
+  <img 
+    align="left" 
+    alt="Tecnologias" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=labremotodeivid-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
