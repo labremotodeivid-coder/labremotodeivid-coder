@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1565C0&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Astolfinho+Smith!+👋;Estudante+de+Física+⚛️;Apaixonado+por+Educação+📚;Ajudante+no+Lab+Remoto+🔬" alt="Typing SVG" />
 </div>
 
@@ -77,3 +77,4 @@ Aplicativo mobile educacional com:
 **Astolfinho Smith** — Lab Remoto © 2025 🔬
 
 </div>
+**
