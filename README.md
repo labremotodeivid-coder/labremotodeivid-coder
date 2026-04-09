@@ -100,35 +100,3 @@ Me chamo Astolfinho Smith, sou estudante de Física apaixonado por educação e 
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=labremotodeivid-coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&hide_border=true&count_private=true" 
-  />
-  <img 
-    align="left" 
-    alt="Tecnologias" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=labremotodeivid-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide_border=true" 
-  />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
----
-
-### 🐍 Minha contribuição comendo commits
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labremotodeivid-coder/labremotodeivid-coder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labremotodeivid-coder/labremotodeivid-coder/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labremotodeivid-coder/labremotodeivid-coder/output/github-contribution-grid-snake.svg">
-</picture>
