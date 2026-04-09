@@ -100,3 +100,25 @@ Me chamo Astolfinho Smith, sou estudante de Física apaixonado por educação e 
 
 <br/>
 <br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=labremotodeivid-coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&hide_border=true&count_private=true" 
+  />
+  <img 
+    align="left" 
+    alt="Tecnologias" 
+    height="200" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=labremotodeivid-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide_border=true" 
+  />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
