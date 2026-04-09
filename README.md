@@ -100,16 +100,3 @@ Me chamo Astolfinho Smith, sou estudante de Física apaixonado por educação e 
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas
-
-![](https://komarev.com/ghpvc/?username=labremotodeivid-coder&color=1565C0&style=for-the-badge&label=VISITAS+AO+PERFIL)
-
-| 📌 | Stat |
-|---|---|
-| 🌟 Repositórios públicos | 2 |
-| 💻 Linguagem principal | Dart / Flutter |
-| 📅 No GitHub desde | 2025 |
-| 🔬 Área de atuação | Educação & Física |
