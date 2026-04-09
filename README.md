@@ -120,3 +120,15 @@ Me chamo Astolfinho Smith, sou estudante de Física apaixonado por educação e 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=labremotodeivid-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide_border=true" 
   />
 </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
+
+### 🐍 Minha contribuição comendo commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labremotodeivid-coder/labremotodeivid-coder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labremotodeivid-coder/labremotodeivid-coder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labremotodeivid-coder/labremotodeivid-coder/output/github-contribution-grid-snake.svg">
+</picture>
