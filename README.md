@@ -111,12 +111,12 @@ Me chamo Astolfinho Smith, sou estudante de Física apaixonado por educação e 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=labremotodeivid-coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub%20de%20Astolfinho%20Smith" 
+    src="https://github-readme-stats.vercel.app/api?username=labremotodeivid-coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20do%20GitHub&hide_border=true&count_private=true" 
   />
   <img 
     align="left" 
     alt="Tecnologias" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=labremotodeivid-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=labremotodeivid-coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide_border=true" 
   />
 </p>
