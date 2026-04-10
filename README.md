@@ -2,7 +2,7 @@
 
 **`Estudante de Física | Ajudante no Lab Remoto`**
 
-Me chamo Astolfinho Smith, sou estudante de Física apaixonado por educação e ciência. Desde cedo fui fascinado pelo funcionamento do universo e como a física descreve tudo ao nosso redor. Atualmente trabalho como ajudante no **[Lab Remoto](https://github.com/labremotodeivid-coder/labremoto)**, onde contribuo com conteúdos, experimentos virtuais e ajudo a tornar a educação científica mais acessível para todos. Também compartilho conteúdo educativo pelo YouTube e pelo Instagram, com o perfil chamado **"Lab Remoto"**.
+Me chamo Astolfinho Smith, sou estudante de Física apaixonado por educação e ciência. Desde cedo fui fascinado pelo funcionamento do universo e como a física descreve tudo ao nosso redor. Atualmente trabalho como ajudante no **[Lab Remoto](https://labremoto.unifei.edu.br/src/welcome.php)**, onde contribuo com conteúdos, experimentos virtuais e ajudo a tornar a educação científica mais acessível para todos. Também compartilho conteúdo educativo pelo YouTube e pelo Instagram, com o perfil chamado **"Lab Remoto"**.
 
 <p align="left">
     <a href="https://github.com/labremotodeivid-coder?tab=repositories&sort=stargazers">
